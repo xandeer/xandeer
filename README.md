@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
-Total Time: 2 hrs 40 mins
+Total Time: 10 hrs 49 mins
 
-Org          1 hr 15 mins    ███████████▓░░░░░░░░░░░░░   47.09 %
-Emacs Lisp   43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-Kotlin       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-CSS          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-INI          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Cheetah      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Kotlin           5 hrs 1 min     ███████████▓░░░░░░░░░░░░░   46.28 %
+Org              2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Emacs Lisp       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+TOML             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Groovy           36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
