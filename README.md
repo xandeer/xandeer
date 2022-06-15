@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Org          1 hr 15 mins    ███████████▓░░░░░░░░░░░░░   47.09 %
+Emacs Lisp   43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Kotlin       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+CSS          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+INI          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Cheetah      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
