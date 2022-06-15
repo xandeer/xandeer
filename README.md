@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
+From: 07 June 2022 - To: 14 June 2022
+
+Total Time: 2 hrs 40 mins
+
 Org          1 hr 15 mins    ███████████▓░░░░░░░░░░░░░   47.09 %
 Emacs Lisp   43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
 Kotlin       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
