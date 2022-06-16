@@ -1,7 +1,3 @@
-### Github Stats
-
-![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)
-
 ### Weekly Coding
 <!--START_SECTION:waka-->
 
@@ -19,6 +15,10 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### Github Stats
+
+![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)
 
 ### Language Usage
 
