@@ -4,6 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=xandeer)
 
+<!-- > Favorite Tools -->
+ 
+<!-- ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) -->
+<!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) -->
+
 > Weekly Coding
 <!--START_SECTION:waka-->
 
