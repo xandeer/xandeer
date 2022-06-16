@@ -9,7 +9,7 @@
 <!-- ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) -->
 <!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) -->
 
-> Weekly Coding
+#### :bar_chart: Weekly Coding
 <!--START_SECTION:waka-->
 
 ```text
@@ -27,16 +27,17 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-> Github Stats
 
-[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&hide_title=true&layout=compact&langs_count=6&exclude_repo=xandeer.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+#### :chart_with_upwards_trend: My GitHub Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&layout=compact&langs_count=6&exclude_repo=xandeer.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xandeer&hide_border=true)](https://git.io/streak-stats) -->
 
 [![](https://activity-graph.herokuapp.com/graph?username=xandeer&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## ⚡ List of cool things that went into this profile README
+#### ⚡ List of cool things that went into this profile README
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Github Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 - [Dev Metrics in Readme](https://github.com/athul/waka-readme)
