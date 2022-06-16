@@ -31,3 +31,9 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&layout=compact"/>
+</div>
