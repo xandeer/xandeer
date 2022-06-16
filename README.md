@@ -1,4 +1,4 @@
-### Weekly Coding
+> Weekly Coding
 <!--START_SECTION:waka-->
 
 ```text
@@ -16,11 +16,9 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Github Stats
-
-[![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-### Language Usage
+> Github Stats
 
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&hide_title=true&layout=compact&langs_count=6&exclude_repo=xandeer.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xandeer&hide_border=true)](https://git.io/streak-stats)
