@@ -32,8 +32,14 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Language usage
+## Language Usage
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&layout=compact&exclude_repo=github-readme-stats,xandeer.github.io"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&layout=compact&exclude_repo=xandeer,xandeer.github.io"/>
+</div>
+
+## Github Stats
+
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs"/>
 </div>
