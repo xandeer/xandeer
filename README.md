@@ -1,20 +1,8 @@
-### Hi there 👋
+### Github Stats
 
-<!--
-**xandeer/xandeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Weekly Coding
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,14 +20,6 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Language Usage
+### Language Usage
 
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&layout=compact&exclude_repo=xandeer,xandeer.github.io"/>
-</div>
-
-## Github Stats
-
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs"/>
-</div>
+![language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io)
