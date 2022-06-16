@@ -18,8 +18,9 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 
 ### Github Stats
 
-![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)
+![Xandeer's Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)
 
 ### Language Usage
 
-![language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&hide_title=true&exclude_repo=xandeer,xandeer.github.io)
+![language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=xandeer&hide_border=true&hide_title=true&layout=compact&langs_count=6&exclude_repo=xandeer.github.io)
+
