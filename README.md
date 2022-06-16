@@ -1,3 +1,9 @@
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
+![](https://komarev.com/ghpvc/?username=xandeer)
+
 > Weekly Coding
 <!--START_SECTION:waka-->
 
@@ -22,3 +28,5 @@ CSS              12 mins         ▒░░░░░░░░░░░░░░�
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xandeer&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&exclude_repo=xandeer,xandeer.github.io&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xandeer&hide_border=true)](https://git.io/streak-stats) -->
+
+[![](https://activity-graph.herokuapp.com/graph?username=xandeer&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
