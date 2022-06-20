@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
-Total Time: 30 hrs 40 mins
+Total Time: 35 hrs 11 mins
 
-Kotlin           13 hrs 35 mins  ███████████░░░░░░░░░░░░░░   43.51 %
-Org              9 hrs           ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-Emacs Lisp       4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-TOML             37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Nix              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Groovy           36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Kotlin           15 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   42.72 %
+Org              10 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.26 %
+Emacs Lisp       5 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Git              58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TOML             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Nix              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
