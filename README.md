@@ -15,14 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 31 July 2022 - To: 07 August 2022
 
-Total Time: 43 hrs 54 mins
+Total Time: 39 hrs 28 mins
 
-Org              18 hrs 7 mins   ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-TypeScript       15 hrs 55 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Emacs Lisp       9 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Other            8 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+TypeScript    18 hrs 54 mins  ████████░░░░░░░░░░░░░░░░░   31.66 %
+Org           13 hrs 55 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+Other         10 hrs 29 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
 ```
 
 <!--END_SECTION:waka-->
