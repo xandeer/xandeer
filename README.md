@@ -15,12 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2022 - To: 10 August 2022
+From: 04 August 2022 - To: 11 August 2022
 
-Total Time: 28 hrs 49 mins
+Total Time: 17 hrs 59 mins
 
-Org              13 hrs 38 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-Other            12 hrs 26 mins  ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+Other            20 hrs 32 mins  ██████████▒░░░░░░░░░░░░░░   40.69 %
 ```
 
 <!--END_SECTION:waka-->
