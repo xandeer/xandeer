@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
+From: 06 August 2022 - To: 13 August 2022
 
-Total Time: 20 hrs 13 mins
+Total Time: 26 hrs 33 mins
 
-Other            20 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   37.95 %
+Org              11 hrs 54 mins  ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Kotlin           8 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Other            6 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
 ```
 
 <!--END_SECTION:waka-->
