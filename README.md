@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-Total Time: 33 hrs 15 mins
+Total Time: 26 hrs 54 mins
 
-Org          10 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   32.10 %
-TypeScript   10 hrs 12 mins  ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-JavaScript   5 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Emacs Lisp   2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Kotlin       1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Git          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Org          9 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
+TypeScript   6 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+JavaScript   5 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Emacs Lisp   1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Kotlin       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Git          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
