@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
+From: 26 October 2022 - To: 02 November 2022
 
-Total Time: 45 hrs 20 mins
+Total Time: 44 hrs 23 mins
 
-Org          13 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 %
-Kotlin       10 hrs 24 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Clojure      9 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-JavaScript   3 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Git          1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-TypeScript   1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Org          11 hrs 54 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+Kotlin       10 hrs 1 min    █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+Clojure      8 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+JavaScript   3 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+TypeScript   3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+JSON         1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
