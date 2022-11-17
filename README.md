@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2022 - To: 15 November 2022
+From: 09 November 2022 - To: 16 November 2022
 
-Total Time: 26 hrs 26 mins
+Total Time: 23 hrs 36 mins
 
-Kotlin       15 hrs 22 mins  ██████████████▓░░░░░░░░░░   58.15 %
-Org          7 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-Racket       1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-TypeScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Git          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Emacs Lisp   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Kotlin       13 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.15 %
+Org          7 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.51 %
+Racket       1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Git          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+XML          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
