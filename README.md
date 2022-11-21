@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-Total Time: 20 hrs 32 mins
+Total Time: 22 hrs 55 mins
 
-Kotlin       13 hrs 43 mins  ████████████████▓░░░░░░░░   66.14 %
-Org          5 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
-TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-XML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Kotlin       13 hrs 45 mins  ███████████████░░░░░░░░░░   59.48 %
+Org          8 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.84 %
+TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+XML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
