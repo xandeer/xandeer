@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Total Time: 45 hrs 53 mins
+Total Time: 45 hrs 3 mins
 
-Kotlin                 26 hrs 8 mins   ██████████████░░░░░░░░░░░   56.30 %
-Org                    12 hrs 19 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-TOML                   2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Git                    1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-TypeScript             57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-XML                    39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Kotlin                 26 hrs 4 mins   ██████████████▒░░░░░░░░░░   57.24 %
+Org                    12 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+TOML                   2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Git                    1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TypeScript             45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Java                   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
