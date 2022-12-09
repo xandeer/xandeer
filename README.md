@@ -15,15 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-Total Time: 37 hrs 54 mins
+Total Time: 36 hrs 42 mins
 
-Kotlin         23 hrs 37 mins  ███████████████▒░░░░░░░░░   60.72 %
-Org            9 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-XML            1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Java           1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other          1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Kotlin           22 hrs 55 mins  ███████████████░░░░░░░░░░   59.97 %
+Org              8 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Other            1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
