@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-Total Time: 38 hrs 3 mins
+Total Time: 30 hrs 37 mins
 
-Kotlin           23 hrs 24 mins  ██████████████▓░░░░░░░░░░   59.13 %
-Org              8 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Other            1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Kotlin           16 hrs 33 mins  █████████████░░░░░░░░░░░░   51.52 %
+Org              9 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.59 %
+Other            1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
