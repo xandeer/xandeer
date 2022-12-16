@@ -15,15 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Total Time: 28 hrs 50 mins
+Total Time: 28 hrs 12 mins
 
-Kotlin           11 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.75 %
-Org              9 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.94 %
-TypeScript       5 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Markdown         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other            34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Kotlin         10 hrs 47 mins  █████████▓░░░░░░░░░░░░░░░   38.20 %
+Org            9 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 %
+TypeScript     4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+TOML           49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Markdown       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+CSS            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
