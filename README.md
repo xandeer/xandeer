@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
-Total Time: 22 hrs 49 mins
+Total Time: 19 hrs 46 mins
 
-TypeScript     7 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   32.69 %
-Kotlin         7 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
-Org            5 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Properties     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-TOML           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Git            27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript   7 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
+Kotlin       5 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+Org          4 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
+Properties   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Git          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
