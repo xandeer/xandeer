@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-Total Time: 32 hrs 50 mins
+Total Time: 31 hrs 20 mins
 
-Kotlin         13 hrs 6 mins   ██████████░░░░░░░░░░░░░░░   39.56 %
-Org            13 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   39.48 %
-Racket         2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-TypeScript     1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Emacs Lisp     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Image (png)    30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Org            14 hrs 9 mins   ███████████▒░░░░░░░░░░░░░   44.78 %
+Kotlin         11 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
+Racket         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+TypeScript     1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Emacs Lisp     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Image (png)    32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
