@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Total Time: 34 hrs 20 mins
+Total Time: 31 hrs 45 mins
 
-Org            13 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   39.09 %
-Kotlin         9 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-TypeScript     4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-YAML           3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Emacs Lisp     1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Git            40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Org          14 hrs 20 mins  ███████████░░░░░░░░░░░░░░   44.43 %
+Kotlin       8 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+YAML         4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+TypeScript   2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Emacs Lisp   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
