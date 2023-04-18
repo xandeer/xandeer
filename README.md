@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
-Total Time: 29 hrs 52 mins
+Total Time: 30 hrs 54 mins
 
-Kotlin                 8 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.06 %
-Org                    8 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-TypeScript             7 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
-YAML                   2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Emacs Lisp             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Git                    29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Org                    9 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+Kotlin                 8 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
+TypeScript             6 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+YAML                   2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Git                    39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JSON                   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
