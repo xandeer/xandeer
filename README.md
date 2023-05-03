@@ -15,13 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Total Time: 3 hrs 32 mins
+Total Time: 6 hrs 30 mins
 
-Org          3 hrs 23 mins   ████████████████████████░   95.45 %
-Emacs Lisp   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Cheetah      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Org          4 hrs 41 mins   █████████████████▓░░░░░░░   70.67 %
+Emacs Lisp   1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Nix          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
