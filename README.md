@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 23 hrs 37 mins
+Total Time: 22 hrs 57 mins
 
-Other          14 hrs 21 mins  █████████▒░░░░░░░░░░░░░░░   37.81 %
-Kotlin         9 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
-Org            6 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-TypeScript     5 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Text           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other                  14 hrs          █████████▒░░░░░░░░░░░░░░░   37.89 %
+Kotlin                 8 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+Org                    6 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+TypeScript             4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Prolog                 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
