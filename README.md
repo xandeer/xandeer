@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
-Total Time: 3 hrs 56 mins
+Total Time: 4 hrs 33 mins
 
-Org     3 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.16 %
-Other   2 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Org          4 hrs 29 mins   ████████████████▓░░░░░░░░   66.55 %
+Other        2 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.48 %
+Emacs Lisp   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
