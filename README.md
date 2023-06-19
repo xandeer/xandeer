@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
-Total Time: 4 hrs 33 mins
+Total Time: 4 hrs 36 mins
 
-Org          4 hrs 29 mins   ████████████████▓░░░░░░░░   66.55 %
-Other        2 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.48 %
-Emacs Lisp   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Org          4 hrs 32 mins   ████████████████▒░░░░░░░░   65.80 %
+Other        2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Emacs Lisp   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
