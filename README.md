@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Total Time: 13 hrs 57 mins
+Total Time: 12 hrs 49 mins
 
-Org          7 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.80 %
-Kotlin       6 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 %
-Other        4 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Git          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Org          6 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.35 %
+Kotlin       6 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.04 %
+Other        4 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+Git          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
