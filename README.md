@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 01 August 2023
+From: 26 July 2023 - To: 02 August 2023
 
-Total Time: 21 hrs 8 mins
+Total Time: 17 hrs
 
-Kotlin                 9 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   31.90 %
-Other                  9 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.65 %
-Org                    7 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-Bash                   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Text                   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other                  12 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.12 %
+Org                    7 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Kotlin                 6 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Bash                   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Text                   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
