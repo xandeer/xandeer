@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
-Total Time: 29 hrs 59 mins
+Total Time: 30 hrs 53 mins
 
-Other        17 hrs 24 mins  █████████▒░░░░░░░░░░░░░░░   36.72 %
-Kotlin       14 hrs 50 mins  ███████▓░░░░░░░░░░░░░░░░░   31.31 %
-Org          7 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Nix          3 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-XML          1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other        19 hrs 8 mins   █████████▓░░░░░░░░░░░░░░░   38.25 %
+Kotlin       13 hrs 26 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Org          7 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Nix          5 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+XML          1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
