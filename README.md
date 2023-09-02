@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Total Time: 15 hrs 49 mins
+Total Time: 18 hrs 31 mins
 
-Kotlin                10 hrs 2 mins   █████████▓░░░░░░░░░░░░░░░   39.08 %
-Other                 9 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.48 %
-Org                   2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Python                38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Git                   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Kotlin                11 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.28 %
+Other                 11 hrs 12 mins  █████████▒░░░░░░░░░░░░░░░   37.69 %
+Org                   3 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Python                38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Git                   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
