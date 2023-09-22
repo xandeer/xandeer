@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-Total Time: 23 hrs 52 mins
+Total Time: 24 hrs 36 mins
 
-Other             14 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.53 %
-Kotlin            8 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-Org               7 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-TypeScript        5 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Emacs Lisp        1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other             13 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   35.11 %
+Kotlin            9 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+Org               7 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+TypeScript        5 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Emacs Lisp        1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
