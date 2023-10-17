@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 15 October 2023
+From: 09 October 2023 - To: 16 October 2023
 
-Total Time: 24 hrs 45 mins
+Total Time: 25 hrs 30 mins
 
-Org                    16 hrs 33 mins  ██████████▓░░░░░░░░░░░░░░   42.62 %
-Other                  14 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
-Kotlin                 7 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-TypeScript             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Git                    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Org                    16 hrs 40 mins  ██████████▒░░░░░░░░░░░░░░   41.95 %
+Other                  14 hrs 13 mins  █████████░░░░░░░░░░░░░░░░   35.82 %
+Kotlin                 7 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+TypeScript             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Git                    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
