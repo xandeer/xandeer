@@ -15,11 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 20 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-Total Time: 28 hrs 48 mins
+Total Time: 26 hrs 26 mins
 
-No activity tracked
+Kotlin         14 hrs 31 mins  ██████████▓░░░░░░░░░░░░░░   42.02 %
+Org            11 hrs 21 mins  ████████▒░░░░░░░░░░░░░░░░   32.84 %
+Other          8 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+Emacs Lisp     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Git            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
