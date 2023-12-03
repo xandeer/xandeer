@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 25 hrs 17 mins
+Total Time: 25 hrs 6 mins
 
-Kotlin         12 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   37.01 %
-Org            11 hrs 11 mins  ████████▒░░░░░░░░░░░░░░░░   32.67 %
-Other          8 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-XML            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Image (jpeg)   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Kotlin         12 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   37.45 %
+Org            11 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.50 %
+Other          8 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+XML            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Image (jpeg)   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
