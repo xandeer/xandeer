@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
-Total Time: 16 hrs 41 mins
+Total Time: 16 hrs 28 mins
 
-Org            9 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.80 %
-Other          7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-Kotlin         6 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+Org            9 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.91 %
+Other          7 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Kotlin         6 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 %
 Git            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Figma Design   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Image (jpeg)   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
