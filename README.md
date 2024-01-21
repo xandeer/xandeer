@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Total Time: 14 hrs 36 mins
+Total Time: 14 hrs 22 mins
 
-Org            7 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 %
-Kotlin         6 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.56 %
-Other          6 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-Figma Design   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Git            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Org            7 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Kotlin         6 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
+Other          6 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
+Figma Design   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Git            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
