@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-Total Time: 16 hrs 49 mins
+Total Time: 16 hrs 41 mins
 
-Other        10 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   38.18 %
-Org          8 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.56 %
-Kotlin       6 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-TypeScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-XML          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Other        10 hrs 3 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
+Org          8 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Kotlin       4 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+TypeScript   2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Git          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
