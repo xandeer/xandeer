@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Total Time: 6 hrs 18 mins
+Total Time: 5 hrs 34 mins
 
-Org      6 hrs 8 mins    ███████████████░░░░░░░░░░   60.06 %
-Other    3 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
-Kotlin   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Org     5 hrs 34 mins   ██████████████████████▒░░   88.99 %
+Other   41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
 ```
 
 <!--END_SECTION:waka-->
