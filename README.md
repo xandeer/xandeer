@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 19 hrs 51 mins
+Total Time: 19 hrs 35 mins
 
-Other          11 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   36.70 %
-Org            9 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-Kotlin         7 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-TypeScript     1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Emacs Lisp     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other          13 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.40 %
+Kotlin         9 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+Org            7 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+TypeScript     1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Emacs Lisp     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
