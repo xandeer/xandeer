@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2024 - To: 29 February 2024
+From: 23 February 2024 - To: 01 March 2024
 
-Total Time: 18 hrs 24 mins
+Total Time: 20 hrs 44 mins
 
-Other          11 hrs 12 mins  █████████▒░░░░░░░░░░░░░░░   37.85 %
-Kotlin         8 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.75 %
-Org            8 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 %
-XML            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-TypeScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Org          10 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   33.80 %
+Other        9 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.46 %
+Kotlin       9 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TOML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
