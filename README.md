@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-Total Time: 17 hrs 55 mins
+Total Time: 17 hrs 42 mins
 
-Kotlin       9 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.72 %
-Org          7 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
-Other        2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-YAML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Git          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Kotlin       9 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.38 %
+Org          7 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.82 %
+Other        3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+YAML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Git          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
