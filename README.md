@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Total Time: 7 hrs 54 mins
+Total Time: 7 hrs 15 mins
 
-Other        6 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
-Org          5 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   36.51 %
-Kotlin       2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Java         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other        5 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   44.87 %
+Org          4 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.92 %
+Kotlin       2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Java         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
