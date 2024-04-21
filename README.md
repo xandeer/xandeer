@@ -11,21 +11,8 @@
 <!-- ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) -->
 <!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) -->
 
-#### :bar_chart: Weekly Coding
+<!-- #### :bar_chart: Weekly Coding -->
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 April 2024 - To: 20 April 2024
-
-Total Time: 8 hrs 17 mins
-
-Other          10 hrs 29 mins  ██████████████░░░░░░░░░░░   55.86 %
-Org            6 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
-Kotlin         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JSON           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-TypeScript     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-```
-
 <!--END_SECTION:waka-->
 
 
